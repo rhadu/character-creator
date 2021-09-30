@@ -6,6 +6,12 @@
   text-align: center;
 }
 
-.footer a{
+.footer a {
   color: white;
+}
+
+@media (max-width: 961px) {
+  .footer {
+    display: none;
+  }
 }

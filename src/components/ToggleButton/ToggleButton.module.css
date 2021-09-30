@@ -21,3 +21,9 @@
   color: white;
   border-width: 6px;
 }
+@media (max-width: 961px) {
+  .toggleButton {
+    width: 65px;
+    height: 65px;
+  }
+}

@@ -6,3 +6,8 @@
   margin-right: -22px;
   margin-bottom: -24px;
 }
+@media (max-width: 961px) {
+  .buttonRow::-webkit-scrollbar {
+    display: none;
+  }
+}
